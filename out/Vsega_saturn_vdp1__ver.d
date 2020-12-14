@@ -1,0 +1,1 @@
+out/Vsega_saturn_vdp1.cpp out/Vsega_saturn_vdp1.h out/Vsega_saturn_vdp1.mk out/Vsega_saturn_vdp1__Syms.cpp out/Vsega_saturn_vdp1__Syms.h out/Vsega_saturn_vdp1__ver.d out/Vsega_saturn_vdp1_classes.mk  : /usr/local/bin/verilator_bin /usr/local/bin/verilator_bin sega_saturn_vdp1.v 

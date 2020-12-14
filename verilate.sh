@@ -1,0 +1,1 @@
+verilator --public --compiler msvc --converge-limit 2000 -Wno-PINMISSING -Wno-WIDTH -Wno-IMPLICIT -Wno-MODDUP -Wno-UNSIGNED -Wno-CASEINCOMPLETE -Wno-CASEX -Wno-SYMRSVDWORD -Wno-COMBDLY -Wno-INITIALDLY -Wno-BLKANDNBLK -I. --top-module sega_saturn_vdp1 -Mdir out --cc sega_saturn_vdp1.v --exe sim_main.cpp

@@ -1,0 +1,12 @@
+# DESCRIPTION: Verilator output: Timestamp data for --skip-identical.  Delete at will.
+C "--public --compiler msvc --converge-limit 2000 -Wno-PINMISSING -Wno-WIDTH -Wno-IMPLICIT -Wno-MODDUP -Wno-UNSIGNED -Wno-CASEINCOMPLETE -Wno-CASEX -Wno-SYMRSVDWORD -Wno-COMBDLY -Wno-INITIALDLY -Wno-BLKANDNBLK -I. --top-module sega_saturn_vdp1 -Mdir out --cc sega_saturn_vdp1.v --exe sim_main.cpp"
+S   8107864 281474977035175  1583059780   207487900  1583059780   207487900 "/usr/local/bin/verilator_bin"
+T    117486 3377699721455980  1607962962   519464900  1607962962   519464900 "out/Vsega_saturn_vdp1.cpp"
+T     17674 1407374884481423  1607962962   515460500  1607962962   515460500 "out/Vsega_saturn_vdp1.h"
+T      1831 1407374884481424  1607962962   525471000  1607962962   525471000 "out/Vsega_saturn_vdp1.mk"
+T       594 2251799814613394  1607962962   509138300  1607962962   509138300 "out/Vsega_saturn_vdp1__Syms.cpp"
+T       858 1688849861192083  1607962962   512143000  1607962962   512143000 "out/Vsega_saturn_vdp1__Syms.h"
+T       280 1688849861192084  1607962962   525471000  1607962962   525471000 "out/Vsega_saturn_vdp1__ver.d"
+T         0        0  1607962962   526471700  1607962962   526471700 "out/Vsega_saturn_vdp1__verFiles.dat"
+T      1274 1970324837902737  1607962962   522468500  1607962962   522468500 "out/Vsega_saturn_vdp1_classes.mk"
+S     14549 5066549581722444  1607961725   560057300  1601780697   840000000 "sega_saturn_vdp1.v"
